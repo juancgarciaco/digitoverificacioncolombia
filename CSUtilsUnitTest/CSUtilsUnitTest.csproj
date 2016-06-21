@@ -52,7 +52,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="Persona\DigitoVerificacionColombia.cs" />
+    <Compile Include="Persona\DigitoVerificacionColombiaTests_Comprobar.cs" />
+    <Compile Include="Persona\DigitoVerificacionColombiaTests_Calcular.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

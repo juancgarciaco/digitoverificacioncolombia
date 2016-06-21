@@ -2,10 +2,10 @@
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace CSUtilsUnitTest.Persona.Tests
+namespace Rectec.Utils.CSUtilsUnitTest.Persona.Tests
 {
     [TestClass()]
-    public class TestDigitoVerificacionColombia
+    public class DigitoVerificacionColombiaTests_Calcular
     {
         #region Calcular String
         [TestMethod]
